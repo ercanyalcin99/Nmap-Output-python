@@ -1,0 +1,3 @@
+import os
+os.system("nmap linkedin.com -oX mett5.xml")
+os.system("nmap bankofamerica.com -oX mett6.xml")
